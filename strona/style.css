@@ -1,0 +1,101 @@
+a:link {
+color: #ffffff; 
+text-decoration: none;
+}
+a:visited {
+color: #ffffff; 
+text-decoration: none;
+}
+a:active {
+color: #99CAA1; 
+text-decoration: none;
+}
+a:hover {
+color: rgb(0, 179, 30); 
+text-decoration: underline;
+}
+body{
+background:url(images/tlo.gif);
+font-family: Verdana;
+font-size: 11px;
+color: #ffffff;
+font-family: Verdana, arial, tahoma, sans-serif;
+}
+img {
+    border: 0px;
+    padding-top:1px;
+}
+.news {
+    text-align: justify;
+    font-family: verdana;
+    font-size: 11px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 5px; 
+    padding-bottom: 5px;     
+}
+.top {
+    background: rgb(0, 0, 0);
+    height: 20px;
+    width: 160px;
+    color: white;
+    font-weight: bold;
+    font-size: 11px;
+}
+
+.top2 {
+    background: #4e4e4e;
+    height: 20px;
+    text-align: left;
+    color: rgb(109, 107, 107);
+    font-weight: bold;
+    font-size: 11px;
+}
+
+.linki {
+    text-align: left;
+    font-family: verdana;
+    color: #191C5F;
+    font-size: 11px;
+    padding-right: 5px;
+    padding-left: 10px;   
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+}
+
+.tytul{
+    text-align: center;
+    font-family: verdana;
+    color: #ffffff;
+    font-size: 50px;
+    padding-right: 5px;
+    padding-left: 10px;   
+    padding-top: 15px; 
+    padding-bottom: 15px; 
+    font-weight: bold;
+}
+
+.tabelka{
+    border: 2px solid #ffffff;
+    background: #000000;
+}
+
+.logo {
+background:url(images/baner.jpg);
+width:774px;
+}
+
+.tabelka2 {
+    text-align: justify;
+    font-family: verdana;
+border: 2px solid #ffffff;
+background-color: #000000;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+
